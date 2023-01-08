@@ -695,11 +695,11 @@ PlayerSettings:
     m_VersionName: 
   apiCompatibilityLevel: 6
   activeInputHandler: 0
-  cloudProjectId: 
+  cloudProjectId: 60d77753-d43f-4e13-a952-d81e6773116f
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
-  organizationId: 
+  projectName: TimeIsPowerGameJam7
+  organizationId: mtryoutlander
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   playerDataPath: 
